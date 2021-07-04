@@ -1,0 +1,6 @@
+site_name: My Docs
+site_url: https://hrushi11.github.io/Hrushi11/Doc-deploy-test/
+# site_url: https://heightsforai.hashnode.dev/doc
+
+theme:
+  name: material
