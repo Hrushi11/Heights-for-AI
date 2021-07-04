@@ -1,5 +1,7 @@
 ## Deep Learning with Neural Networks
 
+Visit the original blog here - [DeepLearning](https://heightsforai.hashnode.dev/deep-learning-with-neural-networks)
+
 ## Deep Learning :
 
 To understand “Deep Learning” first let us try to understand how it is related to AI and Machine Learning. Look at the given figure :
