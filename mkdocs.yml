@@ -31,6 +31,7 @@ edit_uri: ""
 
 nav:
   - Home: 'index.md'
+  - DeepLearning: 'deeplearning.md'
   - Programming Neural Networks:
     - 'Programming Neural Networks' : 'Programming_Neural_Networks.ipynb'
   - Neural Networks in tensorflow:
