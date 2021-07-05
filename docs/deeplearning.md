@@ -1,6 +1,6 @@
 ## Deep Learning with Neural Networks
 
-Visit the original blog here - [DeepLearning](https://heightsforai.hashnode.dev/deep-learning-with-neural-networks)
+Visit the original blog here - [Deep Learning with Neural Networks](https://heightsforai.hashnode.dev/deep-learning-with-neural-networks)
 
 ## Deep Learning :
 
