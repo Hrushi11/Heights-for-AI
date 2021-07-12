@@ -4,7 +4,7 @@ Hello and welcome to this website, I am glad you reached here. I am a Machine le
 
 I have started a series of blogs on Neural networks and currently I am focussing on it. In this series I will try to make understand the beginners about importance of Neural networks and make them understand the conceptual aspects of the same.
 
-This website consists of core understanding of some of the most widely used topics in the the field of deep learning. 
+This website consists of core understanding of some of the most widely used topics in the the field of deep learning.
 
 Visit my blogs here - [Heights For AI](https://heightsforai.hashnode.dev/) <br>
 Visit my Github profile here - [Hrushi11](https://github.com/Hrushi11)<br>
@@ -12,7 +12,7 @@ Visit my Github profile here - [Hrushi11](https://github.com/Hrushi11)<br>
 Connect with me on Linkedin here - [Hrushikesh Kachgunde](https://www.linkedin.com/in/hrushikesh-kachgunde-73a90b186/)<br>
 Mail me at - [hrushiskachgunde@gmail.com]
 
-## Deep Learning with Neural Networks 
+## Deep Learning with Neural Networks
 
 Deep Learning is learning the deep, in-depth patterns and important features of a dataset. Dataset here means the collection of different kinds of data that we want to study and, predict a result from. The history of Deep Learning can be traced back to 1943 when Walter Pitts and Warren McCulloch created a computer model based on the neural networks of the human brain.
 
@@ -20,7 +20,7 @@ Visit the blog here - [Deep Learning with Neural Networks](https://heightsforai.
 
 ![IMG](https://cdn.hashnode.com/res/hashnode/image/upload/v1619242079632/riUxqeDMg.jpeg?auto=compress,format&format=webp)
 
-## Multi-Class CNN 
+## Multi-Class CNN
 
 For this next project in the series we will be dealing with a "multi-class" problem, where the classes to classify are more than 2 and in our case the data set we choose is the Fruits 262 available on Kaggle. Instead of this you can even choose a better arranged data, the Fruits 360 - A dataset with 90380 images of 131 fruits and vegetables.
 
@@ -44,7 +44,7 @@ Visit the Blog here - [Programming neural networks with tensorflow](https://heig
 
 ![IMG](https://i.ibb.co/kQ9bYdK/onehot.png)
 
-## Regression model with Tensorflow : 
+## Regression model with Tensorflow :
 
 In this blog we will train a simple regression model on our own created dataset with tensorflow and try to understand all the concepts in depth.
 
@@ -53,6 +53,14 @@ Regression model : Regression analysis is a form of predictive modelling techniq
 Visit the blog here - [Regression model with Tensorflow](https://heightsforai.hashnode.dev/regression-model-with-tensorflow)
 
 ![IMG](https://cdn.hashnode.com/res/hashnode/image/upload/v1622833830365/TBY3DYNTf.png?auto=compress,format&format=webp)
+
+## Water Quality
+
+Access to safe drinking-water is essential to health, a basic human right and a component of effective policy for health protection. This is important as a health and development issue at a national, regional and local level. In some regions, it has been shown that investments in water supply and sanitation can yield a net economic benefit, since the reductions in adverse health effects and health care costs outweigh the costs of undertaking the interventions.
+
+Visit the blog here - [Water Quality]()
+
+![IMG](https://i.ibb.co/HY4HZxm/d.png)
 
 ## Face Detection OpenCV
 

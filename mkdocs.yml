@@ -14,7 +14,7 @@ theme:
   icon:
     repo: fontawesome/brands/git-alt
   palette:
-    accent: pink 
+    accent: pink
     primary: black
 
 markdown_extensions:
@@ -24,31 +24,29 @@ markdown_extensions:
       custom_checkbox: true
 
 plugins:
- - mkdocs-jupyter
- - search
+  - mkdocs-jupyter
+  - search
 
 edit_uri: ""
 
 nav:
-  - Home: 'index.md'
-  - DeepLearning: 'deeplearning.md'
-  - Programming Neural Networks:
-    - 'Programming Neural Networks' : 'Programming_Neural_Networks.ipynb'
-  - Neural Networks in tensorflow:
-    - 'Neural Network With TensorFlow' : 'Neural_Network_With_TensorFlow.ipynb'
-  - Regression in tensorflow:
-    - 'Regression With TensorFlow' : 'Regression_model_with_tensorflow.ipynb'
-  - Multi-Class CNN :
-    - 'Multi-Class CNN (Fruits 262)' : 'Multi-Class CNN (Fruits 262).ipynb'
-  - TensorFlow GPU Problem:
-    - 'Tensorflow-GPU-Problem': 'Tensorflow-GPU-Problem.ipynb'
-  - Telecom Users Churn:
-    - 'Telecom Users Churn Machine Learning Model Workflow': 'Telecom-Users-Churn-ML-model.ipynb'
+  - Home: "index.md"
 
+  - Neural Networks:
+      - "DeepLearning": "deeplearning.md"
+      - "Programming Neural Networks": "Programming_Neural_Networks.ipynb"
+      - "Neural Network With TensorFlow": "Neural_Network_With_TensorFlow.ipynb"
+      - "Regression With TensorFlow": "Regression_model_with_tensorflow.ipynb"
+      - "Multi-Class CNN (Fruits 262)": "Multi-Class CNN (Fruits 262).ipynb"
+
+  - Regression with Scikit-Learn:
+      - "Telecom Users Churn Machine Learning Model Workflow": "Telecom-Users-Churn-ML-model.ipynb"
+      - "Water Quality ": "Water_Quality.ipynb"
+
+  - TensorFlow GPU Problem: "Tensorflow-GPU-Problem.ipynb"
 
 extra:
-  generator: 
-    false
+  generator: false
   social:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/Hrushi_IK
@@ -60,4 +58,3 @@ extra:
       link: mailto:<hrushiskachgunde@gmail.com>
 
 copyright: Copyright &copy; 2021 Hrushikesh Kachgunde
-
