@@ -76,6 +76,28 @@ The model got an accuracy of about 80% on test data.
 
 ![IMG](https://raw.githubusercontent.com/Hrushi11/Vertebrate-Detection/main/images/prob%201.png)
 
+## Flowers Recognition
+
+Live link for the Web - [Flower Recongnition](https://share.streamlit.io/hrushi11/flowers-recognition/main/app.py)
+
+**Context :** 
+This dataset contains 4242 images of flowers.
+The data collection is based on the data flicr, google images, yandex images.
+You can use this datastet to recognize plants from the photo.
+
+**Visit the blog here -** [Flowers Recognition](https://hrushi11.github.io/Heights-for-AI/Flowers_Recognition/)
+
+**Content :**
+The pictures are divided into five classes: chamomile, tulip, rose, sunflower, dandelion.
+For each class there are about 800 photos. Photos are not high resolution, about 320x240 pixels. Photos are not reduced to a single size, they have different proportions!
+
+**Predicting the flower from given classes :** 
+'daisy', 'dandelion', 'rose', 'sunflower', 'tulip'
+
+**Data :** [Flowers Recognition Dataset](https://www.kaggle.com/alxmamaev/flowers-recognition)
+
+![IMG](https://raw.githubusercontent.com/Hrushi11/Flowers-Recognition/main/images/predictions.png)
+
 ## Face Detection OpenCV
 
 Face detection algorithm to recognize and identify faces with OpenCV.
