@@ -38,6 +38,7 @@ nav:
       - "Neural Network With TensorFlow": "Neural_Network_With_TensorFlow.ipynb"
       - "Regression With TensorFlow": "Regression_model_with_tensorflow.ipynb"
       - "Multi-Class CNN (Fruits 262)": "Multi-Class CNN (Fruits 262).ipynb"
+      - "Vertebrate Detection": "Vertebrate_Detection.ipynb"
 
   - Regression with Scikit-Learn:
       - "Telecom Users Churn Machine Learning Model Workflow": "Telecom-Users-Churn-ML-model.ipynb"
