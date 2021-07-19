@@ -62,6 +62,20 @@ Visit the blog here - [Water Quality](https://hrushi11.github.io/Heights-for-AI/
 
 ![IMG](https://i.ibb.co/HY4HZxm/d.png)
 
+## Vertebrate Detection
+
+Live link for the web - [Vertebrate Detector](https://share.streamlit.io/hrushi11/vertebrate-detection/main/app.py)
+
+Vertebrate : An animal of a large group distinguished by the possession of a backbone or spinal column, including mammals, birds, reptiles, amphibians, and fishes.
+
+Visit the blog here - [Vertebrate Detection](https://hrushi11.github.io/Heights-for-AI/Vertebrate_Detection/)
+
+Vertebrates available : 'Bear', 'Brown bear', 'Bull', 'Butterfly', 'Camel', 'Canary', 'Caterpillar', 'Cattle', 'Centipede', 'Cheetah', 'Chicken', 'Crab', 'Crocodile', 'Deer', 'Duck', 'Eagle', 'Elephant', 'Fish', 'Fox', 'Frog', 'Giraffe', 'Goat', 'Goldfish', 'Goose', 'Hamster', 'Harbor seal', 'Hedgehog', 'Hippopotamus', 'Horse', 'Jaguar', 'Jellyfish', 'Kangaroo', 'Koala', 'Ladybug', 'Leopard', 'Lion', 'Lizard', 'Lynx', 'Magpie', 'Monkey', 'Moths and butterflies', 'Mouse', 'Mule', 'Ostrich', 'Otter', 'Owl', 'Panda', 'Parrot', 'Penguin', 'Pig', 'Polar bear', 'Rabbit', 'Raccoon', 'Raven', 'Red panda', 'Rhinoceros', 'Scorpion', 'Sea lion', 'Sea turtle', 'Seahorse', 'Shark', 'Sheep', 'Shrimp', 'Snail', 'Snake', 'Sparrow', 'Spider', 'Squid', 'Squirrel', 'Starfish', 'Swan', 'Tick', 'Tiger', 'Tortoise', 'Turkey', 'Turtle', 'Whale', 'Woodpecker', 'Worm', 'Zebra'
+
+The model got an accuracy of about 80% on test data.
+
+![IMG](https://raw.githubusercontent.com/Hrushi11/Vertebrate-Detection/main/images/prob%201.png)
+
 ## Face Detection OpenCV
 
 Face detection algorithm to recognize and identify faces with OpenCV.
