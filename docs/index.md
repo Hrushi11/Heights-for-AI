@@ -101,10 +101,11 @@ For each class there are about 800 photos. Photos are not high resolution, about
 ## Face Detection OpenCV
 
 Face detection algorithm to recognize and identify faces with OpenCV.
-This repo deals with identifying the faces and also recognizing the faces with the help of OpenCV.
+This project deals with identifying the faces and also recognizing the faces with the help of OpenCV. <br>
 
-Some of the results are as shown below :
+Also includes identification of faces in a group. Visit the project here - [Face Detection](https://github.com/Hrushi11/Face-Detection-OpenCV) <br>
+
+One of the result is shown below :
 
 ![IMG](https://camo.githubusercontent.com/81d7de737908f52a6f28e60a5ebf074dcacf12c09ca350f82906d6a2d7127176/68747470733a2f2f692e6962622e636f2f327663505a32662f636f6d702e6a7067)
 
-![IMG](https://camo.githubusercontent.com/e942c6428c0d0fe07cc887d8dfc4564adedc5511f90b067059cc0a60ba220284/68747470733a2f2f692e6962622e636f2f514850596d4b722f62656e2d6166666c656b2e6a7067)
