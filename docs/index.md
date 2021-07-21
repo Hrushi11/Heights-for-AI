@@ -16,7 +16,7 @@ Mail me at - [hrushiskachgunde@gmail.com]
 
 Deep Learning is learning the deep, in-depth patterns and important features of a dataset. Dataset here means the collection of different kinds of data that we want to study and, predict a result from. The history of Deep Learning can be traced back to 1943 when Walter Pitts and Warren McCulloch created a computer model based on the neural networks of the human brain.
 
-Visit the blog here - [Deep Learning with Neural Networks](https://heightsforai.hashnode.dev/deep-learning-with-neural-networks)
+**Visit the blog here -** [Deep Learning with Neural Networks](https://heightsforai.hashnode.dev/deep-learning-with-neural-networks)
 
 ![IMG](https://cdn.hashnode.com/res/hashnode/image/upload/v1619242079632/riUxqeDMg.jpeg?auto=compress,format&format=webp)
 
@@ -26,7 +26,7 @@ For this next project in the series we will be dealing with a "multi-class" prob
 
 This data set consists of 262 different types of fruits. This blog is more focused on the code, and covers only the explanation of the important code.
 
-Visit the blog here - [Multi-Class CNN](https://heightsforai.hashnode.dev/multi-class-cnn-with-tensorflow)
+**Visit the blog here -** [Multi-Class CNN](https://heightsforai.hashnode.dev/multi-class-cnn-with-tensorflow)
 
 ![IMG](https://cdn.hashnode.com/res/hashnode/image/upload/v1625338116878/bvEHZLTTz.jpeg?auto=compress,format&format=webp)
 
@@ -40,7 +40,7 @@ This notebook deals with training an end to end neural network. We can train a n
 
 For this notebook we will build a simple hand sign classifier with the help of a 3 layered neural network.
 
-Visit the Blog here - [Programming neural networks with tensorflow](https://heightsforai.hashnode.dev/programming-neural-networks-with-tensorflow)
+**Visit the Blog here -** [Programming neural networks with tensorflow](https://heightsforai.hashnode.dev/programming-neural-networks-with-tensorflow)
 
 ![IMG](https://i.ibb.co/kQ9bYdK/onehot.png)
 
@@ -48,9 +48,9 @@ Visit the Blog here - [Programming neural networks with tensorflow](https://heig
 
 In this blog we will train a simple regression model on our own created dataset with tensorflow and try to understand all the concepts in depth.
 
-Regression model : Regression analysis is a form of predictive modelling technique which investigates the relationship between a dependent (target) and independent variable (s) (predictor). This technique is used for forecasting, time series modelling and finding the causal effect relationship between the variables.
+**Regression model :** Regression analysis is a form of predictive modelling technique which investigates the relationship between a dependent (target) and independent variable (s) (predictor). This technique is used for forecasting, time series modelling and finding the causal effect relationship between the variables.
 
-Visit the blog here - [Regression model with Tensorflow](https://heightsforai.hashnode.dev/regression-model-with-tensorflow)
+**Visit the blog here -** [Regression model with Tensorflow](https://heightsforai.hashnode.dev/regression-model-with-tensorflow)
 
 ![IMG](https://cdn.hashnode.com/res/hashnode/image/upload/v1622833830365/TBY3DYNTf.png?auto=compress,format&format=webp)
 
@@ -58,19 +58,19 @@ Visit the blog here - [Regression model with Tensorflow](https://heightsforai.ha
 
 Access to safe drinking-water is essential to health, a basic human right and a component of effective policy for health protection. This is important as a health and development issue at a national, regional and local level. In some regions, it has been shown that investments in water supply and sanitation can yield a net economic benefit, since the reductions in adverse health effects and health care costs outweigh the costs of undertaking the interventions.
 
-Visit the blog here - [Water Quality](https://hrushi11.github.io/Heights-for-AI/Water_Quality/)
+**Visit the blog here -** [Water Quality](https://hrushi11.github.io/Heights-for-AI/Water_Quality/)
 
 ![IMG](https://i.ibb.co/HY4HZxm/d.png)
 
 ## Vertebrate Detection
 
-Live link for the web - [Vertebrate Detector](https://share.streamlit.io/hrushi11/vertebrate-detection/main/app.py)
+**Live link for the web -** [Vertebrate Detector](https://share.streamlit.io/hrushi11/vertebrate-detection/main/app.py)
 
-Vertebrate : An animal of a large group distinguished by the possession of a backbone or spinal column, including mammals, birds, reptiles, amphibians, and fishes.
+**Vertebrate :** An animal of a large group distinguished by the possession of a backbone or spinal column, including mammals, birds, reptiles, amphibians, and fishes.
 
-Visit the blog here - [Vertebrate Detection](https://hrushi11.github.io/Heights-for-AI/Vertebrate_Detection/)
+**Visit the blog here -** [Vertebrate Detection](https://hrushi11.github.io/Heights-for-AI/Vertebrate_Detection/)
 
-Vertebrates available : 'Bear', 'Brown bear', 'Bull', 'Butterfly', 'Camel', 'Canary', 'Caterpillar', 'Cattle', 'Centipede', 'Cheetah', 'Chicken', 'Crab', 'Crocodile', 'Deer', 'Duck', 'Eagle', 'Elephant', 'Fish', 'Fox', 'Frog', 'Giraffe', 'Goat', 'Goldfish', 'Goose', 'Hamster', 'Harbor seal', 'Hedgehog', 'Hippopotamus', 'Horse', 'Jaguar', 'Jellyfish', 'Kangaroo', 'Koala', 'Ladybug', 'Leopard', 'Lion', 'Lizard', 'Lynx', 'Magpie', 'Monkey', 'Moths and butterflies', 'Mouse', 'Mule', 'Ostrich', 'Otter', 'Owl', 'Panda', 'Parrot', 'Penguin', 'Pig', 'Polar bear', 'Rabbit', 'Raccoon', 'Raven', 'Red panda', 'Rhinoceros', 'Scorpion', 'Sea lion', 'Sea turtle', 'Seahorse', 'Shark', 'Sheep', 'Shrimp', 'Snail', 'Snake', 'Sparrow', 'Spider', 'Squid', 'Squirrel', 'Starfish', 'Swan', 'Tick', 'Tiger', 'Tortoise', 'Turkey', 'Turtle', 'Whale', 'Woodpecker', 'Worm', 'Zebra'
+**Vertebrates available :** 'Bear', 'Brown bear', 'Bull', 'Butterfly', 'Camel', 'Canary', 'Caterpillar', 'Cattle', 'Centipede', 'Cheetah', 'Chicken', 'Crab', 'Crocodile', 'Deer', 'Duck', 'Eagle', 'Elephant', 'Fish', 'Fox', 'Frog', 'Giraffe', 'Goat', 'Goldfish', 'Goose', 'Hamster', 'Harbor seal', 'Hedgehog', 'Hippopotamus', 'Horse', 'Jaguar', 'Jellyfish', 'Kangaroo', 'Koala', 'Ladybug', 'Leopard', 'Lion', 'Lizard', 'Lynx', 'Magpie', 'Monkey', 'Moths and butterflies', 'Mouse', 'Mule', 'Ostrich', 'Otter', 'Owl', 'Panda', 'Parrot', 'Penguin', 'Pig', 'Polar bear', 'Rabbit', 'Raccoon', 'Raven', 'Red panda', 'Rhinoceros', 'Scorpion', 'Sea lion', 'Sea turtle', 'Seahorse', 'Shark', 'Sheep', 'Shrimp', 'Snail', 'Snake', 'Sparrow', 'Spider', 'Squid', 'Squirrel', 'Starfish', 'Swan', 'Tick', 'Tiger', 'Tortoise', 'Turkey', 'Turtle', 'Whale', 'Woodpecker', 'Worm', 'Zebra'
 
 The model got an accuracy of about 80% on test data.
 
@@ -78,7 +78,7 @@ The model got an accuracy of about 80% on test data.
 
 ## Flowers Recognition
 
-Live link for the Web - [Flower Recognition](https://share.streamlit.io/hrushi11/flowers-recognition/main/app.py)
+**Live link for the Web -** [Flower Recognition](https://share.streamlit.io/hrushi11/flowers-recognition/main/app.py)
 
 **Context :** 
 This dataset contains 4242 images of flowers.
@@ -103,7 +103,7 @@ For each class there are about 800 photos. Photos are not high resolution, about
 Face detection algorithm to recognize and identify faces with OpenCV.
 This project deals with identifying the faces and also recognizing the faces with the help of OpenCV. <br>
 
-Also includes identification of faces in a group. Visit the project here - [Face Detection](https://github.com/Hrushi11/Face-Detection-OpenCV) <br>
+Also includes identification of faces in a group. **Visit the project here -** [Face Detection](https://github.com/Hrushi11/Face-Detection-OpenCV) <br>
 
 One of the result is shown below :
 
