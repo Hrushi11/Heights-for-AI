@@ -98,6 +98,20 @@ For each class there are about 800 photos. Photos are not high resolution, about
 
 ![IMG](https://raw.githubusercontent.com/Hrushi11/Flowers-Recognition/main/images/predictions.png)
 
+## Butterfly Recognition
+
+**Live link for the Web -** [Butterfly Recognition](https://share.streamlit.io/hrushi11/butterfly_recognition/main/app.py)
+
+Train, Test. Validation data set for 50 butterfly species. All images are 224 X 224 X 3 in jpg format . Train set consists of 4955 images partitioned into 50 sub directories one for each species. Test set consists of 250 images partitioned into 50 sub directories with 5 test images per species. Valid set consists of 250 images partitioned into 50 sub directories with 5 validation images per species. 1 CSV file is included with 3 columns filepaths, labels and dataset. filepaths is the relative path to an image. labels is the string name of the species associate with the image file. dataset species the directory (train, test, valid) that contains the image file.
+
+**Visit the blog here -** [Butterfly Recognition](https://hrushi11.github.io/Heights-for-AI/Butterfly_Recognition/)
+
+![IMG](https://github.com/Hrushi11/Butterfly_Recognition/blob/main/images/random_imgs.jpg?raw=true)
+
+The model classifies for the given classes - 'adonis','american snoot','an 88','banded peacock','beckers white','black hairstreak', 'cabbage white','chestnut','clodius parnassian','clouded sulphur','copper tail','crecent','crimson patch','eastern coma','gold banded', 'great eggfly','grey hairstreak','indra swallow','julia','large marble','malachite','mangrove skipper','metalmark','monarch','morning cloak', 'orange oakleaf','orange tip','orchard swallow','painted lady','paper kite','peacock','pine white','pipevine swallow','purple hairstreak','question mark', 'red admiral','red spotted purple','scarce swallow','silver spot skipper','sixspot burnet','skipper','sootywing','southern dogface','straited queen', 'two barred flasher','ulyses','viceroy','wood satyr','yellow swallow tail','zebra long wing'.
+
+![IMG](https://raw.githubusercontent.com/Hrushi11/Butterfly_Recognition/main/images/predictions1.jpeg)
+
 ## Face Detection OpenCV
 
 Face detection algorithm to recognize and identify faces with OpenCV.
