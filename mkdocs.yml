@@ -40,6 +40,7 @@ nav:
       - "Multi-Class CNN (Fruits 262)": "Multi-Class CNN (Fruits 262).ipynb"
       - "Vertebrate Detection": "Vertebrate_Detection.ipynb"
       - "Flowers Recognition": "Flowers_Recognition.ipynb"
+      - "Butterfly Recognition": "Butterfly_Recognition.ipynb"
 
   - Regression with Scikit-Learn:
       - "Telecom Users Churn Machine Learning Model Workflow": "Telecom-Users-Churn-ML-model.ipynb"
