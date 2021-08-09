@@ -45,6 +45,9 @@ nav:
   - Regression with Scikit-Learn:
       - "Telecom Users Churn Machine Learning Model Workflow": "Telecom-Users-Churn-ML-model.ipynb"
       - "Water Quality ": "Water_Quality.ipynb"
+   
+  - Python Projects:
+      - "Rock Paper Scissors Game In Python" : "rps-game.md"
 
   - TensorFlow GPU Problem: "Tensorflow-GPU-Problem.ipynb"
 
