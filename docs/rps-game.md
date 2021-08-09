@@ -36,7 +36,8 @@ class User:
         self.email = email
     
     def sign_in(self):
-        sgn_in = "LOGGED IN" if int(self.age) >= 3 else f"UDER-AGE, LOGGED OUT - {self.age} years"
+        sgn_in = "LOGGED IN" if int(self.age) >= 3 else f"UDER-AGE, 
+                  LOGGED OUT - {self.age} years"
         
         return sgn_in
     
@@ -151,7 +152,8 @@ def rps_initiate(self):
              stmnt = f"{res} \n{self.name} Chose - {user_choice} \nRPS-BOT Chose - {bot_choice}"
          
          else :
-             stmnt = f"YOU MIGHT BE UNDER-AGE - {self.age} years, or \nyou chose `{self.choice}`, which might NOT BE IDENTIFIED, RE-CHECK"
+             stmnt = f"YOU MIGHT BE UNDER-AGE - {self.age} years, or \nyou chose `{self.choice}`, 
+                       which might NOT BE IDENTIFIED, RE-CHECK"
 
          return stmnt
 ```
