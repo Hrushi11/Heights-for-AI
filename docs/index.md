@@ -112,6 +112,29 @@ The model classifies for the given classes - 'adonis','american snoot','an 88','
 
 ![IMG](https://raw.githubusercontent.com/Hrushi11/Butterfly_Recognition/main/images/predictions1.jpeg)
 
+## Rock Paper Scissors Game In Python 
+
+*Creating a python bot that plays the rock paper scissors game with the help of OOP principles in python.*
+
+In this [blog](https://heightsforai.hashnode.dev/rock-paper-scissors-game-in-python) we will see how to make a python bot playing rock paper scissors with the help of object oriented programming in python. We will be making two files one which will contain the actual logic of the game and another file that will make a call for the bot and run it. We will be also adding some user information for the one playing the game and see how to call functions to see that info.
+
+So without any further waiting lets get into the flow of the code. - [Blog](https://hrushi11.github.io/Heights-for-AI/rps-game/) <br>
+Code for this blog - [Rock-Paper-Scissors-Game](https://github.com/Hrushi11/Blogs-Repository/tree/main/Rock-Paper-Scissors-Game)
+
+```
+def rps_initiate(self):
+         print("-------------------------------------------")
+         if int(self.age) >= 3 and self.choice.lower() in rps_labels:
+             res, user_choice, bot_choice = self.rps_bot()
+             stmnt = f"{res} \n{self.name} Chose - {user_choice} \nRPS-BOT Chose - {bot_choice}"
+
+         else :
+             stmnt = f"YOU MIGHT BE UNDER-AGE - {self.age} years, or \nyou chose `{self.choice}`, 
+                       which might NOT BE IDENTIFIED, RE-CHECK"
+
+         return stmnt
+```
+
 ## Face Detection OpenCV
 
 Face detection algorithm to recognize and identify faces with OpenCV.
