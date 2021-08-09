@@ -36,8 +36,7 @@ class User:
         self.email = email
     
     def sign_in(self):
-        sgn_in = "LOGGED IN" if int(self.age) >= 3 else f"UDER-AGE, 
-                                                          LOGGED OUT - {self.age} years"
+        sgn_in = "LOGGED IN" if int(self.age) >= 3 else f"UDER-AGE, LOGGED OUT - {self.age} years"
         
         return sgn_in
     
