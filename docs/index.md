@@ -144,7 +144,7 @@ E.g. woman0, woman1, woman_2 etc.
 
 ![IMG](https://github.com/Hrushi11/Gender-Recognition/blob/main/images/man_woman.jpg?raw=true)
 
-**Visit the blog here** - [Gender Recognition]() <br>
+**Visit the blog here** - [Gender Recognition](https://hrushi11.github.io/Heights-for-AI/#gender-recognition) <br>
 **Visit the live web app here** - [Gender Recognition](https://share.streamlit.io/hrushi11/gender-recognition/main/app.py)
 
 **Predictions made by the model :**
