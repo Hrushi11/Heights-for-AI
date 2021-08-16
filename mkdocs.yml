@@ -41,13 +41,14 @@ nav:
       - "Vertebrate Detection": "Vertebrate_Detection.ipynb"
       - "Flowers Recognition": "Flowers_Recognition.ipynb"
       - "Butterfly Recognition": "Butterfly_Recognition.ipynb"
+      - "Gender Recognition": "Gender_Recognition.ipynb"
 
   - Regression with Scikit-Learn:
       - "Telecom Users Churn Machine Learning Model Workflow": "Telecom-Users-Churn-ML-model.ipynb"
       - "Water Quality ": "Water_Quality.ipynb"
-   
+
   - Python Projects:
-      - "Rock Paper Scissors Game In Python" : "rps-game.md"
+      - "Rock Paper Scissors Game In Python": "rps-game.md"
 
   - TensorFlow GPU Problem: "Tensorflow-GPU-Problem.ipynb"
 

@@ -80,7 +80,7 @@ The model got an accuracy of about 80% on test data.
 
 **Live link for the Web -** [Flower Recognition](https://share.streamlit.io/hrushi11/flowers-recognition/main/app.py)
 
-**Context :** 
+**Context :**
 This dataset contains 4242 images of flowers.
 The data collection is based on the data flicr, google images, yandex images.
 You can use this datastet to recognize plants from the photo.
@@ -91,7 +91,7 @@ You can use this datastet to recognize plants from the photo.
 The pictures are divided into five classes: chamomile, tulip, rose, sunflower, dandelion.
 For each class there are about 800 photos. Photos are not high resolution, about 320x240 pixels. Photos are not reduced to a single size, they have different proportions!
 
-**Predicting the flower from given classes :** 
+**Predicting the flower from given classes :**
 'daisy', 'dandelion', 'rose', 'sunflower', 'tulip'
 
 **Data :** [Flowers Recognition Dataset](https://www.kaggle.com/alxmamaev/flowers-recognition)
@@ -112,9 +112,9 @@ The model classifies for the given classes - 'adonis','american snoot','an 88','
 
 ![IMG](https://raw.githubusercontent.com/Hrushi11/Butterfly_Recognition/main/images/predictions1.jpeg)
 
-## Rock Paper Scissors Game In Python 
+## Rock Paper Scissors Game In Python
 
-*Creating a python bot that plays the rock paper scissors game with the help of OOP principles in python.*
+_Creating a python bot that plays the rock paper scissors game with the help of OOP principles in python._
 
 In this [blog](https://heightsforai.hashnode.dev/rock-paper-scissors-game-in-python) we will see how to make a python bot playing rock paper scissors with the help of object oriented programming in python. We will be making two files one which will contain the actual logic of the game and another file that will make a call for the bot and run it. We will be also adding some user information for the one playing the game and see how to call functions to see that info.
 
@@ -129,11 +129,27 @@ def rps_initiate(self):
              stmnt = f"{res} \n{self.name} Chose - {user_choice} \nRPS-BOT Chose - {bot_choice}"
 
          else :
-             stmnt = f"YOU MIGHT BE UNDER-AGE - {self.age} years, or \nyou chose `{self.choice}`, 
+             stmnt = f"YOU MIGHT BE UNDER-AGE - {self.age} years, or \nyou chose `{self.choice}`,
                        which might NOT BE IDENTIFIED, RE-CHECK"
 
          return stmnt
 ```
+
+## Gender Recognition
+
+Gender Recognition CNN model which predicts the gender out of the two classes man and woman with a test accuracy of 91.5%.
+
+The dataset contains 27,167 '.jpg' files which 17 678 of them are photos of men faces and 9 489 are woman photos. Each file is renamed accordingly to it's category
+E.g. woman0, woman1, woman_2 etc.
+
+![IMG](https://github.com/Hrushi11/Gender-Recognition/blob/main/images/man_woman.jpg?raw=true)
+
+**Visit the blog here** - [Gender Recognition]() <br>
+**Visit the live web app here** - [Gender Recognition](https://share.streamlit.io/hrushi11/gender-recognition/main/app.py)
+
+**Predictions made by the model :**
+
+![IMG](https://github.com/Hrushi11/Gender-Recognition/blob/main/images/Preds.png?raw=true)
 
 ## Face Detection OpenCV
 
@@ -145,4 +161,3 @@ Also includes identification of faces in a group. **Visit the project here -** [
 One of the result is shown below :
 
 ![IMG](https://camo.githubusercontent.com/81d7de737908f52a6f28e60a5ebf074dcacf12c09ca350f82906d6a2d7127176/68747470733a2f2f692e6962622e636f2f327663505a32662f636f6d702e6a7067)
-
