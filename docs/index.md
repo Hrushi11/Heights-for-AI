@@ -151,6 +151,25 @@ E.g. woman0, woman1, woman_2 etc.
 
 ![IMG](https://github.com/Hrushi11/Gender-Recognition/blob/main/images/Preds.png?raw=true)
 
+## Bird Species Recognition
+
+Data set of 285 bird species.40930 training images, 1425 test images(5 images per species) and 1425 validation images(5 images per species.
+All images are 224 X 224 X 3 color images in jpg format. Data set includes a train set, test set and validation set. Each set contains 285 sub directories, 
+one for each bird species. The data structure is convenient if you use the Keras ImageDataGenerator.flowfromdirectory to create your train, test and valid data generators. 
+
+Visit the blog here - [Bird Species Recognition]()
+
+![IMG](https://github.com/Hrushi11/Bird-Species-Recognition/blob/main/images/random_img_crp.jpg?raw=true)
+
+### Predictions made by the model:
+
+![IMG](https://github.com/Hrushi11/Bird-Species-Recognition/blob/main/images/corr1.png?raw=true)
+
+### Wrong predictions made by the model:
+
+![IMG](https://github.com/Hrushi11/Bird-Species-Recognition/blob/main/images/wrng_conf_3.png?raw=true)
+
+
 ## Face Detection OpenCV
 
 Face detection algorithm to recognize and identify faces with OpenCV.
