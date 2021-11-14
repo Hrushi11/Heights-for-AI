@@ -43,6 +43,7 @@ nav:
       - "Butterfly Recognition": "Butterfly_Recognition.ipynb"
       - "Gender Recognition": "Gender_Recognition.ipynb"
       - "Bird Species Recognition": "Bird_Species_Recognition.ipynb"
+      - "Devnagri Character Recognition": "Devnagri_Character_Recognition.ipynb"
 
   - Regression with Scikit-Learn:
       - "Telecom Users Churn Machine Learning Model Workflow": "Telecom-Users-Churn-ML-model.ipynb"
