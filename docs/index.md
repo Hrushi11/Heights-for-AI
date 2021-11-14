@@ -177,8 +177,8 @@ Creator Name: Shailesh Acharya, `Email: sailes437@gmail.com`, Institution: Unive
 Creator Name: Prashnna Kumar Gyawali, `Email: gyawali.prasanna@gmail.com`, Institution: Rochester Institute of Technology
 Data Type: GrayScale Image
 
-Visit the code here - [Devnagri-Character-Recognition](https://github.com/Hrushi11/Devnagri-Character-Recognition/blob/main/Devnagri_Character_Recognition.ipynb) <br>
-Visit the blog here - [Devnagri Character Recognition]()
+Gihub Repo - [Devnagri-Character-Recognition](https://github.com/Hrushi11/Devnagri-Character-Recognition/) <br>
+Visit the blog here - [Devnagri Character Recognition](https://hrushi11.github.io/Heights-for-AI/Devnagri_Character_Recognition/)
 
 The image dataset can be used to benchmark classification algorithm for OCR systems. The highest accuracy obtained in the Test set is 98.15%. 
 Model Description is available in the paper. Image Format: .png Resolution: 32 by 32
